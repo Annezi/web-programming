@@ -1,0 +1,54 @@
+body { 
+    background-image: url(../1.2/img/passport_shablon.png); 
+    background-position: center-bottom; 
+    background-repeat: no-repeat;
+   }
+   .block1 {
+   margin-left: 90px;
+   margin-top: 70px;
+   font: bold 90% serif;
+   }
+   .block2 {
+   margin-left: 85px;
+   margin-top: 30px;
+   }
+   .block3 {
+   margin-left: 250px;
+   margin-top: -18px;
+   }
+   .block4 {
+   margin-left: 218px;
+   margin-top: 185px;
+   font: bold 100% serif;
+   }
+   .block5 {
+   margin-left: 225px;
+   margin-top: 27px;
+   }
+   .block6 {
+   margin-left: 210px;
+   margin-top: 4px;
+   }
+   .block7 {
+   margin-left: 165px;
+   margin-top: 6px;
+   }
+   .block8 {
+   margin-left: 250px;
+   margin-top: -18px;
+   }
+   .block9 {
+   margin-left: 180px;
+   margin-top: 3px;
+   }
+   .photo {
+   margin-left: 18px;
+   margin-top: -126px;
+   width: 120px;
+   }
+   .webJs {
+	position: absolute;
+	margin-left: 500px;
+	margin-top: -65px;
+	width: 1300px;
+   }
